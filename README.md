@@ -1,4 +1,5 @@
 # Chiceck-Detection
+This model detect any chiecken in images or videos
 
 # dataset 
 https://drive.google.com/drive/folders/1t13z33dzwGU9aqSCtxFlESaQ8Kc_tdlR?usp=sharing
